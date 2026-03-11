@@ -13,18 +13,20 @@ export default function ProductHuntCard({ product, rank }: { product: PHProduct;
       href={product.url}
       target="_blank"
       rel="noopener noreferrer"
-      className="flex gap-3 p-4 bg-white border border-gray-200 rounded-xl hover:border-orange-300 hover:shadow-sm transition-all group"
+      className="flex items-start gap-3 py-3 hover:bg-[#f7f7f5] -mx-2 px-2 rounded transition-colors"
     >
+      <span className="text-xs text-[#c9c8c5] font-mono w-4 pt-0.5 shrink-0 text-right">{rank}</span>
+
       {/* Thumbnail */}
-      <div className="shrink-0">
+      <div className="shrink-0 mt-0.5">
         {product.thumbnail ? (
           <img
             src={product.thumbnail}
             alt={product.name}
-            className="w-10 h-10 rounded-lg object-cover"
+            className="w-8 h-8 rounded object-cover"
           />
         ) : (
-          <div className="w-10 h-10 rounded-lg bg-orange-100 flex items-center justify-center text-orange-400 text-lg font-bold">
+          <div className="w-8 h-8 rounded bg-[#f1f1ef] flex items-center justify-center text-xs text-[#9b9a97] font-medium">
             {product.name[0]}
           </div>
         )}
@@ -32,20 +34,15 @@ export default function ProductHuntCard({ product, rank }: { product: PHProduct;
 
       {/* Content */}
       <div className="min-w-0 flex-1">
-        <div className="flex items-start justify-between gap-2">
-          <div className="font-semibold text-sm group-hover:text-orange-600 truncate">
-            {product.name}
-          </div>
-          <div className="shrink-0 flex flex-col items-center text-orange-500 bg-orange-50 rounded-lg px-2 py-0.5 min-w-[40px]">
-            <span className="text-xs">▲</span>
-            <span className="text-xs font-bold leading-none">{product.votes}</span>
-          </div>
+        <div className="flex items-baseline justify-between gap-2">
+          <span className="text-sm font-medium text-[#37352f]">{product.name}</span>
+          <span className="text-xs text-[#9b9a97] shrink-0">▲ {product.votes}</span>
         </div>
-        <p className="text-xs text-gray-500 mt-1 line-clamp-2">{product.desc}</p>
+        <p className="text-xs text-[#787774] mt-0.5 line-clamp-1">{product.desc}</p>
         {product.topics.length > 0 && (
-          <div className="flex gap-1 mt-2 flex-wrap">
+          <div className="flex gap-1 mt-1 flex-wrap">
             {product.topics.map((t) => (
-              <span key={t} className="text-xs bg-gray-100 text-gray-500 rounded px-1.5 py-0.5">
+              <span key={t} className="text-xs text-[#9b9a97] bg-[#f1f1ef] rounded px-1.5 py-0.5">
                 {t}
               </span>
             ))}

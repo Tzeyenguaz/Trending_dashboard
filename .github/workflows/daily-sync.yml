@@ -2,8 +2,8 @@ name: Daily Data Sync
 
 on:
   schedule:
-    # UTC 16:00 = 北京时间次日 00:00 (UTC+8)
-    - cron: '0 16 * * *'
+    # UTC 8:00 = 北京 16:00，UTC 16:00 = 北京次日 00:00
+    - cron: '0 8,16 * * *'
   # 允许在 GitHub Actions 页面手动触发
   workflow_dispatch:
 

@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import { Geist } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
 
-const geist = Geist({ subsets: ["latin"] });
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "每日科技趋势 · GitHub Trending & Product Hunt",
@@ -16,7 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="zh-CN">
-      <body className={`${geist.className} antialiased bg-gray-50 text-gray-900`}>
+      <body className={`${inter.className} bg-white text-[#37352f]`}>
         {children}
       </body>
     </html>
