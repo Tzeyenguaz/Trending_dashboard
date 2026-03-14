@@ -4,15 +4,15 @@
     {
       "name": "microsoft/BitNet",
       "desc": "Official inference framework for 1-bit LLMs",
-      "stars": "33566",
-      "today": "2,223 stars today",
+      "stars": "34346",
+      "today": "2,227 stars today",
       "language": "Python",
       "url": "https://github.com/microsoft/BitNet"
     },
     {
       "name": "langflow-ai/openrag",
       "desc": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
-      "stars": "2074",
+      "stars": "2417",
       "today": "905 stars today",
       "language": "Python",
       "url": "https://github.com/langflow-ai/openrag"
@@ -20,112 +20,112 @@
     {
       "name": "lightpanda-io/browser",
       "desc": "Lightpanda: the headless browser designed for AI and automation",
-      "stars": "14905",
-      "today": "1,175 stars today",
+      "stars": "16059",
+      "today": "2,093 stars today",
       "language": "Zig",
       "url": "https://github.com/lightpanda-io/browser"
     },
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "81505",
-      "today": "2,096 stars today",
+      "stars": "82304",
+      "today": "2,106 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "public-apis/public-apis",
       "desc": "A collective list of free APIs",
-      "stars": "409100",
-      "today": "895 stars today",
+      "stars": "409828",
+      "today": "892 stars today",
       "language": "Python",
       "url": "https://github.com/public-apis/public-apis"
     },
     {
       "name": "promptfoo/promptfoo",
       "desc": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
-      "stars": "14863",
-      "today": "1,850 stars today",
+      "stars": "15524",
+      "today": "1,668 stars today",
       "language": "TypeScript",
       "url": "https://github.com/promptfoo/promptfoo"
     },
     {
       "name": "msitarzewski/agency-agents",
       "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": "38868",
-      "today": "5,758 stars today",
+      "stars": "41361",
+      "today": "5,745 stars today",
       "language": "Shell",
       "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "dolthub/dolt",
       "desc": "Dolt – Git for Data",
-      "stars": "20941",
-      "today": "58 stars today",
+      "stars": "21208",
+      "today": "60 stars today",
       "language": "Go",
       "url": "https://github.com/dolthub/dolt"
     },
     {
       "name": "google/A2UI",
       "desc": "",
-      "stars": "12957",
-      "today": "629 stars today",
+      "stars": "13141",
+      "today": "635 stars today",
       "language": "TypeScript",
       "url": "https://github.com/google/A2UI"
     },
     {
       "name": "fishaudio/fish-speech",
       "desc": "SOTA Open Source TTS",
-      "stars": "26720",
-      "today": "556 stars today",
+      "stars": "26975",
+      "today": "559 stars today",
       "language": "Python",
       "url": "https://github.com/fishaudio/fish-speech"
     },
     {
       "name": "alibaba/page-agent",
       "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "stars": "7203",
-      "today": "1,467 stars today",
+      "stars": "7924",
+      "today": "1,468 stars today",
       "language": "TypeScript",
       "url": "https://github.com/alibaba/page-agent"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": "10648",
-      "today": "651 stars today",
+      "stars": "10923",
+      "today": "654 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
       "name": "AstrBotDevs/AstrBot",
       "desc": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": "23627",
-      "today": "952 stars today",
+      "stars": "24166",
+      "today": "1,128 stars today",
       "language": "Python",
       "url": "https://github.com/AstrBotDevs/AstrBot"
     },
     {
       "name": "vectorize-io/hindsight",
       "desc": "Hindsight: Agent Memory That Learns",
-      "stars": "3463",
-      "today": "597 stars today",
+      "stars": "3797",
+      "today": "595 stars today",
       "language": "Python",
       "url": "https://github.com/vectorize-io/hindsight"
     },
     {
       "name": "InsForge/InsForge",
       "desc": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-      "stars": "3512",
-      "today": "763 stars today",
+      "stars": "3745",
+      "today": "766 stars today",
       "language": "TypeScript",
       "url": "https://github.com/InsForge/InsForge"
     },
     {
       "name": "google-ai-edge/LiteRT",
       "desc": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
-      "stars": "1812",
-      "today": "208 stars today",
+      "stars": "1907",
+      "today": "211 stars today",
       "language": "C++",
       "url": "https://github.com/google-ai-edge/LiteRT"
     }
