@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-15",
+  "date": "2026-03-16",
   "items": [
     {
       "name": "Rork Max",
@@ -27,7 +27,7 @@
     {
       "name": "Sonnet 4.6",
       "desc": "The most capable Sonnet model yet",
-      "votes": 721,
+      "votes": 722,
       "url": "https://www.producthunt.com/products/claude/launches/sonnet-4-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d380c6b9-155e-44c8-9e1d-133b15003a0e.png?auto=format",
       "topics": [
@@ -37,23 +37,35 @@
     {
       "name": "Visual Translate by Vozo",
       "desc": "Translate text in your videos without recreating visuals",
-      "votes": 687,
+      "votes": 690,
       "url": "https://www.producthunt.com/products/vozo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/beac91f0-5b0c-4702-a32d-8be887488c08.gif?auto=format",
       "topics": [
+        "Productivity",
         "SaaS",
-        "Artificial Intelligence",
-        "Video"
+        "Artificial Intelligence"
       ]
     },
     {
       "name": "Claude Import Memory",
       "desc": "Switch from ChatGPT to Claude with import memory feature",
-      "votes": 685,
+      "votes": 686,
       "url": "https://www.producthunt.com/products/claude/launches/claude-import-memory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/3dfe9e3f-75df-4d91-a9b2-c9ed2449241f.png?auto=format",
       "topics": [
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Chronicle 2.0",
+      "desc": "AI presentations without the AI slop",
+      "votes": 677,
+      "url": "https://www.producthunt.com/products/chronicle-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/32f798e8-593b-4453-9806-6bbd9a04a244.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Design"
       ]
     },
     {
@@ -66,18 +78,6 @@
         "Developer Tools",
         "Artificial Intelligence",
         "GitHub"
-      ]
-    },
-    {
-      "name": "Chronicle 2.0",
-      "desc": "AI presentations without the AI slop",
-      "votes": 676,
-      "url": "https://www.producthunt.com/products/chronicle-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/32f798e8-593b-4453-9806-6bbd9a04a244.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Design"
       ]
     },
     {
@@ -107,7 +107,7 @@
     {
       "name": "Naoma AI Demo Agent",
       "desc": "The video AI demo agent for B2B SaaS for immediate demos",
-      "votes": 632,
+      "votes": 633,
       "url": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
       "topics": [
@@ -119,7 +119,7 @@
     {
       "name": "InsForge",
       "desc": "Give agents everything they need to ship fullstack apps",
-      "votes": 624,
+      "votes": 621,
       "url": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/00c129e1-f3ee-4be7-a3cb-ff09fcc4313e.vnd.microsoft.icon?auto=format",
       "topics": [
@@ -167,24 +167,12 @@
     {
       "name": "Gemini 3.1 Pro",
       "desc": "A smarter model for your most complex tasks",
-      "votes": 574,
+      "votes": 576,
       "url": "https://www.producthunt.com/products/gemini-6/launches/gemini-3-1-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/3ee04709-370b-4cca-9bcf-a704c5414908.png?auto=format",
       "topics": [
         "Software Engineering",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Needle 2.0",
-      "desc": "Vibe-automate workflows and earn passive income",
-      "votes": 569,
-      "url": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/998eb53e-158a-4045-84a5-68c0f635e683.png?auto=format",
-      "topics": [
-        "Artificial Intelligence",
-        "No-Code",
-        "YC Application"
       ]
     },
     {
@@ -200,9 +188,21 @@
       ]
     },
     {
+      "name": "Needle 2.0",
+      "desc": "Vibe-automate workflows and earn passive income",
+      "votes": 567,
+      "url": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/998eb53e-158a-4045-84a5-68c0f635e683.png?auto=format",
+      "topics": [
+        "Artificial Intelligence",
+        "No-Code",
+        "YC Application"
+      ]
+    },
+    {
       "name": "Superset",
       "desc": "Run an army of Claude Code, Codex, etc. on your machine",
-      "votes": 566,
+      "votes": 564,
       "url": "https://www.producthunt.com/products/superset-5/launches/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
       "topics": [
@@ -214,7 +214,7 @@
     {
       "name": "Timelaps",
       "desc": "Know if your marketing is working with real-time insights",
-      "votes": 549,
+      "votes": 546,
       "url": "https://www.producthunt.com/products/timelaps?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/95132434-10a5-4aea-9e86-c28817573f57.png?auto=format",
       "topics": [
