@@ -4,104 +4,96 @@
     {
       "name": "lightpanda-io/browser",
       "desc": "Lightpanda: the headless browser designed for AI and automation",
-      "stars": "17954",
-      "today": "1,323 stars today",
+      "stars": "19457",
+      "today": "1,335 stars today",
       "language": "Zig",
       "url": "https://github.com/lightpanda-io/browser"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
       "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "stars": "840",
-      "today": "241 stars today",
+      "stars": "1367",
+      "today": "205 stars today",
       "language": "TypeScript",
       "url": "https://github.com/Crosstalk-Solutions/project-nomad"
     },
     {
       "name": "volcengine/OpenViking",
       "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-      "stars": "11792",
-      "today": "1,877 stars today",
+      "stars": "13177",
+      "today": "1,870 stars today",
       "language": "Python",
       "url": "https://github.com/volcengine/OpenViking"
     },
     {
       "name": "shareAI-lab/learn-claude-code",
       "desc": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
-      "stars": "27673",
-      "today": "865 stars today",
+      "stars": "28740",
+      "today": "872 stars today",
       "language": "TypeScript",
       "url": "https://github.com/shareAI-lab/learn-claude-code"
     },
     {
-      "name": "shanraisshan/claude-code-best-practice",
-      "desc": "practice made claude perfect",
-      "stars": "16657",
-      "today": "852 stars today",
-      "language": "HTML",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice"
-    },
-    {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "85133",
-      "today": "1,893 stars today",
+      "stars": "87069",
+      "today": "1,867 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "p-e-w/heretic",
       "desc": "Fully automatic censorship removal for language models",
-      "stars": "14431",
-      "today": "1,066 stars today",
+      "stars": "14934",
+      "today": "1,062 stars today",
       "language": "Python",
       "url": "https://github.com/p-e-w/heretic"
     },
     {
       "name": "666ghj/MiroFish",
       "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": "26205",
-      "today": "2,985 stars today",
+      "stars": "28350",
+      "today": "2,782 stars today",
       "language": "Python",
       "url": "https://github.com/666ghj/MiroFish"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
       "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "stars": "13584",
-      "today": "450 stars today",
+      "stars": "14871",
+      "today": "451 stars today",
       "language": "TypeScript",
       "url": "https://github.com/abhigyanpatwari/GitNexus"
     },
     {
       "name": "topoteretes/cognee",
       "desc": "Knowledge Engine for AI Agent Memory in 6 lines of code",
-      "stars": "13749",
-      "today": "310 stars today",
+      "stars": "14089",
+      "today": "270 stars today",
       "language": "Python",
       "url": "https://github.com/topoteretes/cognee"
     },
     {
       "name": "InsForge/InsForge",
       "desc": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-      "stars": "4472",
-      "today": "509 stars today",
+      "stars": "4706",
+      "today": "515 stars today",
       "language": "TypeScript",
       "url": "https://github.com/InsForge/InsForge"
     },
     {
       "name": "voidzero-dev/vite-plus",
       "desc": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
-      "stars": "1526",
-      "today": "301 stars today",
+      "stars": "1952",
+      "today": "300 stars today",
       "language": "Rust",
       "url": "https://github.com/voidzero-dev/vite-plus"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": "11699",
-      "today": "608 stars today",
+      "stars": "12198",
+      "today": "604 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/claude-plugins-official"
     }
