@@ -1,125 +1,125 @@
 {
-  "date": "2026-03-23",
+  "date": "2026-03-24",
   "items": [
     {
       "name": "FujiwaraChoki/MoneyPrinterV2",
       "desc": "Automate the process of making money online.",
-      "stars": "20883",
-      "today": "1,787 stars today",
+      "stars": "22153",
+      "today": "2,902 stars today",
       "language": "Python",
       "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
     },
     {
-      "name": "TauricResearch/TradingAgents",
-      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": "38180",
-      "today": "1,051 stars today",
-      "language": "Python",
-      "url": "https://github.com/TauricResearch/TradingAgents"
-    },
-    {
-      "name": "vxcontrol/pentagi",
-      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "stars": "12470",
-      "today": "1,069 stars today",
-      "language": "Go",
-      "url": "https://github.com/vxcontrol/pentagi"
-    },
-    {
-      "name": "jamwithai/production-agentic-rag-course",
-      "desc": "",
-      "stars": "4971",
-      "today": "237 stars today",
-      "language": "Python",
-      "url": "https://github.com/jamwithai/production-agentic-rag-course"
-    },
-    {
-      "name": "affaan-m/everything-claude-code",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "99696",
-      "today": "3,724 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/everything-claude-code"
-    },
-    {
-      "name": "jarrodwatts/claude-hud",
-      "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-      "stars": "11580",
-      "today": "834 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/jarrodwatts/claude-hud"
-    },
-    {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "stars": "11287",
-      "today": "2,300 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad"
-    },
-    {
-      "name": "systemd/systemd",
-      "desc": "The systemd System and Service Manager",
-      "stars": "16077",
-      "today": "313 stars today",
-      "language": "C",
-      "url": "https://github.com/systemd/systemd"
-    },
-    {
-      "name": "browser-use/browser-use",
-      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "stars": "83030",
-      "today": "428 stars today",
-      "language": "Python",
-      "url": "https://github.com/browser-use/browser-use"
-    },
-    {
-      "name": "HKUDS/LightRAG",
-      "desc": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
-      "stars": "30211",
-      "today": "220 stars today",
-      "language": "Python",
-      "url": "https://github.com/HKUDS/LightRAG"
-    },
-    {
-      "name": "hsliuping/TradingAgents-CN",
-      "desc": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "stars": "20083",
-      "today": "230 stars today",
-      "language": "Python",
-      "url": "https://github.com/hsliuping/TradingAgents-CN"
-    },
-    {
-      "name": "louis-e/arnis",
-      "desc": "Generate any location from the real world in Minecraft with a high level of detail.",
-      "stars": "12925",
-      "today": "582 stars today",
-      "language": "Rust",
-      "url": "https://github.com/louis-e/arnis"
-    },
-    {
-      "name": "aquasecurity/trivy",
-      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": "33768",
-      "today": "251 stars today",
-      "language": "Go",
-      "url": "https://github.com/aquasecurity/trivy"
-    },
-    {
       "name": "bytedance/deer-flow",
-      "desc": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
-      "stars": "36777",
-      "today": "1,690 stars today",
+      "desc": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": "38399",
+      "today": "3,569 stars today",
       "language": "Python",
       "url": "https://github.com/bytedance/deer-flow"
     },
     {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "stars": "51461",
-      "today": "189 stars today",
+      "name": "Crosstalk-Solutions/project-nomad",
+      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars": "12649",
+      "today": "4,148 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": "12794",
+      "today": "1,307 stars today",
+      "language": "Go",
+      "url": "https://github.com/vxcontrol/pentagi"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": "83401",
+      "today": "1,160 stars today",
       "language": "Python",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+      "url": "https://github.com/browser-use/browser-use"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "38814",
+      "today": "2,521 stars today",
+      "language": "Python",
+      "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+      "name": "tinygrad/tinygrad",
+      "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+      "stars": "31825",
+      "today": "58 stars today",
+      "language": "Python",
+      "url": "https://github.com/tinygrad/tinygrad"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "101109",
+      "today": "4,453 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/everything-claude-code"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "11201",
+      "today": "874 stars today",
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "desc": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+      "stars": "42484",
+      "today": "478 stars today",
+      "language": "Python",
+      "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+      "name": "hsliuping/TradingAgents-CN",
+      "desc": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "stars": "20257",
+      "today": "672 stars today",
+      "language": "Python",
+      "url": "https://github.com/hsliuping/TradingAgents-CN"
+    },
+    {
+      "name": "kepano/obsidian-skills",
+      "desc": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+      "stars": "16160",
+      "today": "367 stars today",
+      "language": "",
+      "url": "https://github.com/kepano/obsidian-skills"
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "desc": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "stars": "15913",
+      "today": "136 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/czlonkowski/n8n-mcp"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "desc": "Collection of publicly available IPTV channels from all over the world",
+      "stars": "113451",
+      "today": "125 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/iptv-org/iptv"
+    },
+    {
+      "name": "hesreallyhim/awesome-claude-code",
+      "desc": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
+      "stars": "30673",
+      "today": "413 stars today",
+      "language": "Python",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code"
     }
   ]
 }

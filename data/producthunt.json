@@ -1,10 +1,10 @@
 {
-  "date": "2026-03-23",
+  "date": "2026-03-24",
   "items": [
     {
       "name": "KiloClaw",
       "desc": "Hosted OpenClaw. No Mac mini required.",
-      "votes": 901,
+      "votes": 899,
       "url": "https://www.producthunt.com/products/kiloclaw/launches/kiloclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/3b92bc7b-bec8-4d79-bc13-605c3732826a.png?auto=format",
       "topics": [
@@ -27,13 +27,25 @@
     {
       "name": "Chronicle 2.0",
       "desc": "AI presentations without the AI slop",
-      "votes": 747,
+      "votes": 746,
       "url": "https://www.producthunt.com/products/chronicle-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/32f798e8-593b-4453-9806-6bbd9a04a244.png?auto=format",
       "topics": [
         "Productivity",
         "Artificial Intelligence",
         "Design"
+      ]
+    },
+    {
+      "name": "Stitch 2.0 by Google",
+      "desc": "Vibe design beautiful production-ready UI in seconds",
+      "votes": 705,
+      "url": "https://www.producthunt.com/products/stitch-2-0-by-google-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/c6fac898-ea13-44f9-bdb6-c55dc0a8ed6c.jpeg?auto=format",
+      "topics": [
+        "Design Tools",
+        "Prototyping",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -49,7 +61,7 @@
     {
       "name": "MuleRun",
       "desc": "Raise an AI that actually learns how you work",
-      "votes": 700,
+      "votes": 691,
       "url": "https://www.producthunt.com/products/mulerun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/43c7869c-2c8f-48d6-98ad-0e1ac6f32304.png?auto=format",
       "topics": [
@@ -59,21 +71,9 @@
       ]
     },
     {
-      "name": "Stitch 2.0 by Google",
-      "desc": "Vibe design beautiful production-ready UI in seconds",
-      "votes": 689,
-      "url": "https://www.producthunt.com/products/stitch-2-0-by-google-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/c6fac898-ea13-44f9-bdb6-c55dc0a8ed6c.jpeg?auto=format",
-      "topics": [
-        "Design Tools",
-        "Prototyping",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Anything API",
       "desc": "Any website. We deliver the API.",
-      "votes": 672,
+      "votes": 673,
       "url": "https://www.producthunt.com/products/notte/launches/anything-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a5d945d7-db55-4fd6-a412-0b332c5cc687.png?auto=format",
       "topics": [
@@ -109,7 +109,7 @@
     {
       "name": "InsForge",
       "desc": "Give agents everything they need to ship fullstack apps",
-      "votes": 659,
+      "votes": 657,
       "url": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/00c129e1-f3ee-4be7-a3cb-ff09fcc4313e.vnd.microsoft.icon?auto=format",
       "topics": [
@@ -121,7 +121,7 @@
     {
       "name": "Claude Dispatch",
       "desc": "Text Claude from your phone using “Dispatch”",
-      "votes": 639,
+      "votes": 646,
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1d846145-00ea-4113-ba6e-c1b42293d6df.png?auto=format",
       "topics": [
@@ -143,6 +143,18 @@
       ]
     },
     {
+      "name": "Lightfield",
+      "desc": "AI-native CRM that builds itself and does work for you",
+      "votes": 609,
+      "url": "https://www.producthunt.com/products/lightfield?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/e31fc558-30e0-48e2-921a-0199328f3f02.x-icon?auto=format",
+      "topics": [
+        "Sales",
+        "Artificial Intelligence",
+        "CRM"
+      ]
+    },
+    {
       "name": "Needle 2.0",
       "desc": "Vibe-automate workflows and earn passive income",
       "votes": 609,
@@ -155,33 +167,9 @@
       ]
     },
     {
-      "name": "Lightfield",
-      "desc": "AI-native CRM that builds itself and does work for you",
-      "votes": 600,
-      "url": "https://www.producthunt.com/products/lightfield?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/e31fc558-30e0-48e2-921a-0199328f3f02.x-icon?auto=format",
-      "topics": [
-        "Sales",
-        "Artificial Intelligence",
-        "CRM"
-      ]
-    },
-    {
-      "name": "Glam AI",
-      "desc": "Pick a trend, add your photo, and create viral content",
-      "votes": 566,
-      "url": "https://www.producthunt.com/products/glam-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/44263da1-338e-4b0b-836a-0bd9ae34d267.gif?auto=format",
-      "topics": [
-        "Social Media",
-        "Artificial Intelligence",
-        "Photo & Video"
-      ]
-    },
-    {
       "name": "ProductBridge",
       "desc": "Agent that collects feedback across multiple platforms",
-      "votes": 565,
+      "votes": 580,
       "url": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6f3cceef-8ebb-4587-ad7f-4439173b53ff.png?auto=format",
       "topics": [
@@ -191,9 +179,21 @@
       ]
     },
     {
+      "name": "Glam AI",
+      "desc": "Pick a trend, add your photo, and create viral content",
+      "votes": 575,
+      "url": "https://www.producthunt.com/products/glam-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/44263da1-338e-4b0b-836a-0bd9ae34d267.gif?auto=format",
+      "topics": [
+        "Social Media",
+        "Artificial Intelligence",
+        "Photo & Video"
+      ]
+    },
+    {
       "name": "Superset",
       "desc": "Run an army of Claude Code, Codex, etc. on your machine",
-      "votes": 562,
+      "votes": 560,
       "url": "https://www.producthunt.com/products/superset-5/launches/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
       "topics": [
@@ -205,7 +205,7 @@
     {
       "name": "Timelaps",
       "desc": "Know if your marketing is working with real-time insights",
-      "votes": 558,
+      "votes": 559,
       "url": "https://www.producthunt.com/products/timelaps/launches/timelaps?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/95132434-10a5-4aea-9e86-c28817573f57.png?auto=format",
       "topics": [
@@ -229,7 +229,7 @@
     {
       "name": "Cardboard",
       "desc": "Cursor for video editing",
-      "votes": 539,
+      "votes": 538,
       "url": "https://www.producthunt.com/products/cardboard-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/607a82e0-7a58-4dda-b92c-71e0f0688c52.png?auto=format",
       "topics": [
