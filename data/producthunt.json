@@ -1,10 +1,10 @@
 {
-  "date": "2026-03-28",
+  "date": "2026-03-29",
   "items": [
     {
       "name": "Stitch 2.0 by Google",
       "desc": "Vibe design beautiful production-ready UI in seconds",
-      "votes": 803,
+      "votes": 807,
       "url": "https://www.producthunt.com/products/stitch-2-0-by-google-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c6fac898-ea13-44f9-bdb6-c55dc0a8ed6c.jpeg?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Chronicle 2.0",
       "desc": "AI presentations without the AI slop",
-      "votes": 745,
+      "votes": 746,
       "url": "https://www.producthunt.com/products/chronicle-6/launches/chronicle-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/32f798e8-593b-4453-9806-6bbd9a04a244.png?auto=format",
       "topics": [
@@ -50,7 +50,7 @@
     {
       "name": "Claude Dispatch",
       "desc": "Text Claude from your phone using “Dispatch”",
-      "votes": 689,
+      "votes": 688,
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1d846145-00ea-4113-ba6e-c1b42293d6df.png?auto=format",
       "topics": [
@@ -62,7 +62,7 @@
     {
       "name": "Anything API",
       "desc": "Any website. We deliver the API.",
-      "votes": 687,
+      "votes": 686,
       "url": "https://www.producthunt.com/products/notte/launches/anything-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a5d945d7-db55-4fd6-a412-0b332c5cc687.png?auto=format",
       "topics": [
@@ -74,7 +74,7 @@
     {
       "name": "MuleRun",
       "desc": "Raise an AI that actually learns how you work",
-      "votes": 680,
+      "votes": 683,
       "url": "https://www.producthunt.com/products/mulerun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/43c7869c-2c8f-48d6-98ad-0e1ac6f32304.png?auto=format",
       "topics": [
@@ -86,7 +86,7 @@
     {
       "name": "Tobira.ai",
       "desc": "A network where AI agents find deals for their humans",
-      "votes": 678,
+      "votes": 682,
       "url": "https://www.producthunt.com/products/tobira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c25c764d-4b7e-4964-bc05-1d2773a416c8.png?auto=format",
       "topics": [
@@ -105,17 +105,6 @@
         "Marketing",
         "Artificial Intelligence",
         "YC Application"
-      ]
-    },
-    {
-      "name": "Agentplace AI Agents",
-      "desc": "Create specialized AI agents for real tasks and workflows",
-      "votes": 663,
-      "url": "https://www.producthunt.com/products/agentplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/a2d767c5-498a-410b-8ef1-b7a9831f0b56.jpeg?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence"
       ]
     },
     {
@@ -145,7 +134,7 @@
     {
       "name": "Lightfield",
       "desc": "AI-native CRM that builds itself and does work for you",
-      "votes": 637,
+      "votes": 640,
       "url": "https://www.producthunt.com/products/lightfield?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e31fc558-30e0-48e2-921a-0199328f3f02.x-icon?auto=format",
       "topics": [
@@ -155,27 +144,38 @@
       ]
     },
     {
-      "name": "Claude Marketplace",
-      "desc": "Helping companies easily get the AI tools they need",
-      "votes": 628,
-      "url": "https://www.producthunt.com/products/claude-marketplace/launches/claude-marketplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/4d3aaebf-b1e9-4077-9fd4-a4f4e376c187.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Littlebird",
       "desc": "The AI assistant that already knows your work",
-      "votes": 625,
+      "votes": 637,
       "url": "https://www.producthunt.com/products/littlebird?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/b452bcf1-1bad-41dd-9dcf-92ed7cf31548.png?auto=format",
       "topics": [
         "Meetings",
         "Artificial Intelligence",
         "Virtual Assistants"
+      ]
+    },
+    {
+      "name": "Agentplace AI Agents",
+      "desc": "Create specialized AI agents for real tasks and workflows",
+      "votes": 633,
+      "url": "https://www.producthunt.com/products/agentplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/a2d767c5-498a-410b-8ef1-b7a9831f0b56.jpeg?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Claude Marketplace",
+      "desc": "Helping companies easily get the AI tools they need",
+      "votes": 630,
+      "url": "https://www.producthunt.com/products/claude-marketplace/launches/claude-marketplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/4d3aaebf-b1e9-4077-9fd4-a4f4e376c187.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
       ]
     },
     {

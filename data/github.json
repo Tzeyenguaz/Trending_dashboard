@@ -1,101 +1,77 @@
 {
-  "date": "2026-03-28",
+  "date": "2026-03-29",
   "items": [
-    {
-      "name": "mvanhorn/last30days-skill",
-      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": "13147",
-      "today": "2,821 stars today",
-      "language": "Python",
-      "url": "https://github.com/mvanhorn/last30days-skill"
-    },
     {
       "name": "hacksider/Deep-Live-Cam",
       "desc": "real time face swap and one-click video deepfake with only a single image",
-      "stars": "83508",
-      "today": "1,616 stars today",
+      "stars": "83987",
+      "today": "1,789 stars today",
       "language": "Python",
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
-      "name": "SakanaAI/AI-Scientist-v2",
-      "desc": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-      "stars": "3033",
-      "today": "143 stars today",
-      "language": "Python",
-      "url": "https://github.com/SakanaAI/AI-Scientist-v2"
-    },
-    {
-      "name": "microsoft/VibeVoice",
-      "desc": "Open-Source Frontier Voice AI",
-      "stars": "24840",
-      "today": "337 stars today",
-      "language": "Python",
-      "url": "https://github.com/microsoft/VibeVoice"
-    },
-    {
-      "name": "twentyhq/twenty",
-      "desc": "Building a modern alternative to Salesforce, powered by the community.",
-      "stars": "42130",
-      "today": "668 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/twentyhq/twenty"
-    },
-    {
-      "name": "datalab-to/chandra",
-      "desc": "OCR model that handles complex tables, forms, handwriting with full layout.",
-      "stars": "7188",
-      "today": "912 stars today",
-      "language": "Python",
-      "url": "https://github.com/datalab-to/chandra"
-    },
-    {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "119288",
-      "today": "2,752 stars today",
+      "stars": "120180",
+      "today": "2,293 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
+      "name": "SakanaAI/AI-Scientist-v2",
+      "desc": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "stars": "3275",
+      "today": "507 stars today",
+      "language": "Python",
+      "url": "https://github.com/SakanaAI/AI-Scientist-v2"
+    },
+    {
       "name": "virattt/dexter",
       "desc": "An autonomous agent for deep financial research",
-      "stars": "19849",
-      "today": "672 stars today",
+      "stars": "20033",
+      "today": "583 stars today",
       "language": "TypeScript",
       "url": "https://github.com/virattt/dexter"
     },
     {
-      "name": "Yeachan-Heo/oh-my-claudecode",
-      "desc": "Teams-first Multi-agent orchestration for Claude Code",
-      "stars": "14248",
-      "today": "1,411 stars today",
+      "name": "twentyhq/twenty",
+      "desc": "Building a modern alternative to Salesforce, powered by the community.",
+      "stars": "42293",
+      "today": "562 stars today",
       "language": "TypeScript",
-      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
-    },
-    {
-      "name": "FreeCAD/FreeCAD",
-      "desc": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
-      "stars": "29769",
-      "today": "79 stars today",
-      "language": "C++",
-      "url": "https://github.com/FreeCAD/FreeCAD"
-    },
-    {
-      "name": "Vaibhavs10/insanely-fast-whisper",
-      "desc": "",
-      "stars": "11971",
-      "today": "1,066 stars today",
-      "language": "Jupyter Notebook",
-      "url": "https://github.com/Vaibhavs10/insanely-fast-whisper"
+      "url": "https://github.com/twentyhq/twenty"
     },
     {
       "name": "onyx-dot-app/onyx",
       "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "stars": "19347",
-      "today": "547 stars today",
+      "stars": "19567",
+      "today": "870 stars today",
       "language": "Python",
       "url": "https://github.com/onyx-dot-app/onyx"
+    },
+    {
+      "name": "datalab-to/chandra",
+      "desc": "OCR model that handles complex tables, forms, handwriting with full layout.",
+      "stars": "7415",
+      "today": "679 stars today",
+      "language": "Python",
+      "url": "https://github.com/datalab-to/chandra"
+    },
+    {
+      "name": "agentscope-ai/agentscope",
+      "desc": "Build and run agents you can see, understand and trust.",
+      "stars": "21459",
+      "today": "379 stars today",
+      "language": "Python",
+      "url": "https://github.com/agentscope-ai/agentscope"
+    },
+    {
+      "name": "apache/superset",
+      "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "stars": "71310",
+      "today": "67 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/apache/superset"
     }
   ]
 }
