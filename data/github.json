@@ -1,77 +1,109 @@
 {
-  "date": "2026-03-29",
+  "date": "2026-03-30",
   "items": [
     {
-      "name": "hacksider/Deep-Live-Cam",
-      "desc": "real time face swap and one-click video deepfake with only a single image",
-      "stars": "84639",
-      "today": "1,814 stars today",
+      "name": "luongnv89/claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": "5524",
+      "today": "1,121 stars today",
       "language": "Python",
-      "url": "https://github.com/hacksider/Deep-Live-Cam"
+      "url": "https://github.com/luongnv89/claude-howto"
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "desc": "Teams-first Multi-agent orchestration for Claude Code",
+      "stars": "15627",
+      "today": "1,140 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "desc": "Open-Source Frontier Voice AI",
+      "stars": "26532",
+      "today": "1,190 stars today",
+      "language": "Python",
+      "url": "https://github.com/microsoft/VibeVoice"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "16148",
+      "today": "997 stars today",
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "OpenBB-finance/OpenBB",
+      "desc": "Financial data platform for analysts, quants and AI agents.",
+      "stars": "63884",
+      "today": "113 stars today",
+      "language": "Python",
+      "url": "https://github.com/OpenBB-finance/OpenBB"
     },
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "121475",
-      "today": "2,292 stars today",
+      "stars": "122323",
+      "today": "2,229 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
-      "name": "SakanaAI/AI-Scientist-v2",
-      "desc": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-      "stars": "3652",
-      "today": "506 stars today",
-      "language": "Python",
-      "url": "https://github.com/SakanaAI/AI-Scientist-v2"
+      "name": "thedotmack/claude-mem",
+      "desc": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "stars": "42303",
+      "today": "464 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/thedotmack/claude-mem"
     },
     {
-      "name": "virattt/dexter",
-      "desc": "An autonomous agent for deep financial research",
-      "stars": "20345",
-      "today": "581 stars today",
+      "name": "hacksider/Deep-Live-Cam",
+      "desc": "real time face swap and one-click video deepfake with only a single image",
+      "stars": "84996",
+      "today": "1,131 stars today",
+      "language": "Python",
+      "url": "https://github.com/hacksider/Deep-Live-Cam"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": "14988",
+      "today": "1,186 stars today",
+      "language": "Python",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "stars": "42506",
+      "today": "908 stars today",
       "language": "TypeScript",
-      "url": "https://github.com/virattt/dexter"
+      "url": "https://github.com/shareAI-lab/learn-claude-code"
+    },
+    {
+      "name": "fastfetch-cli/fastfetch",
+      "desc": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "stars": "21076",
+      "today": "28 stars today",
+      "language": "C",
+      "url": "https://github.com/fastfetch-cli/fastfetch"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "stars": "36254",
+      "today": "213 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/moeru-ai/airi"
     },
     {
       "name": "twentyhq/twenty",
       "desc": "Building a modern alternative to Salesforce, powered by the community.",
-      "stars": "42556",
-      "today": "563 stars today",
+      "stars": "42743",
+      "today": "451 stars today",
       "language": "TypeScript",
       "url": "https://github.com/twentyhq/twenty"
-    },
-    {
-      "name": "onyx-dot-app/onyx",
-      "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "stars": "19935",
-      "today": "880 stars today",
-      "language": "Python",
-      "url": "https://github.com/onyx-dot-app/onyx"
-    },
-    {
-      "name": "datalab-to/chandra",
-      "desc": "OCR model that handles complex tables, forms, handwriting with full layout.",
-      "stars": "7743",
-      "today": "687 stars today",
-      "language": "Python",
-      "url": "https://github.com/datalab-to/chandra"
-    },
-    {
-      "name": "agentscope-ai/agentscope",
-      "desc": "Build and run agents you can see, understand and trust.",
-      "stars": "21766",
-      "today": "398 stars today",
-      "language": "Python",
-      "url": "https://github.com/agentscope-ai/agentscope"
-    },
-    {
-      "name": "apache/superset",
-      "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
-      "stars": "71585",
-      "today": "31 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/apache/superset"
     }
   ]
 }
