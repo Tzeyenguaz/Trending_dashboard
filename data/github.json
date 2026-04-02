@@ -1,61 +1,37 @@
 {
-  "date": "2026-04-02",
+  "date": "2026-04-03",
   "items": [
     {
-      "name": "anthropics/claude-code",
-      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "stars": "103995",
-      "today": "10,749 stars today",
-      "language": "Shell",
-      "url": "https://github.com/anthropics/claude-code"
+      "name": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "stars": "15006",
+      "today": "2,496 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/siddharthvaddem/openscreen"
     },
     {
-      "name": "microsoft/VibeVoice",
-      "desc": "Open-Source Frontier Voice AI",
-      "stars": "34817",
-      "today": "1,685 stars today",
+      "name": "Yeachan-Heo/oh-my-codex",
+      "desc": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "stars": "10814",
+      "today": "2,852 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+      "stars": "35978",
+      "today": "323 stars today",
+      "language": "",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "stars": "76897",
+      "today": "807 stars today",
       "language": "Python",
-      "url": "https://github.com/microsoft/VibeVoice"
-    },
-    {
-      "name": "google-research/timesfm",
-      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": "12640",
-      "today": "380 stars today",
-      "language": "Python",
-      "url": "https://github.com/google-research/timesfm"
-    },
-    {
-      "name": "luongnv89/claude-howto",
-      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": "16308",
-      "today": "3,301 stars today",
-      "language": "Python",
-      "url": "https://github.com/luongnv89/claude-howto"
-    },
-    {
-      "name": "axios/axios",
-      "desc": "Promise based HTTP client for the browser and node.js",
-      "stars": "108931",
-      "today": "93 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/axios/axios"
-    },
-    {
-      "name": "openai/codex",
-      "desc": "Lightweight coding agent that runs in your terminal",
-      "stars": "72231",
-      "today": "2,390 stars today",
-      "language": "Rust",
-      "url": "https://github.com/openai/codex"
-    },
-    {
-      "name": "f/prompts.chat",
-      "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": "156406",
-      "today": "398 stars today",
-      "language": "HTML",
-      "url": "https://github.com/f/prompts.chat"
+      "url": "https://github.com/sherlock-project/sherlock"
     }
   ]
 }
