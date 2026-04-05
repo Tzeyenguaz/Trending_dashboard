@@ -4,64 +4,64 @@
     {
       "name": "Blaizzy/mlx-vlm",
       "desc": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-      "stars": "3450",
-      "today": "316 stars today",
+      "stars": "3720",
+      "today": "343 stars today",
       "language": "Python",
       "url": "https://github.com/Blaizzy/mlx-vlm"
     },
     {
       "name": "onyx-dot-app/onyx",
       "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "stars": "23920",
-      "today": "1,212 stars today",
+      "stars": "24526",
+      "today": "1,197 stars today",
       "language": "Python",
       "url": "https://github.com/onyx-dot-app/onyx"
     },
     {
       "name": "Yeachan-Heo/oh-my-codex",
       "desc": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "stars": "15222",
-      "today": "1,803 stars today",
+      "stars": "16037",
+      "today": "1,789 stars today",
       "language": "TypeScript",
       "url": "https://github.com/Yeachan-Heo/oh-my-codex"
     },
     {
       "name": "siddharthvaddem/openscreen",
       "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "stars": "19153",
-      "today": "1,600 stars today",
+      "stars": "21024",
+      "today": "1,591 stars today",
       "language": "TypeScript",
       "url": "https://github.com/siddharthvaddem/openscreen"
     },
     {
       "name": "telegramdesktop/tdesktop",
       "desc": "Telegram Desktop messaging app",
-      "stars": "30750",
-      "today": "282 stars today",
+      "stars": "30896",
+      "today": "249 stars today",
       "language": "C++",
       "url": "https://github.com/telegramdesktop/tdesktop"
     },
     {
       "name": "block/goose",
       "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": "35440",
-      "today": "947 stars today",
+      "stars": "35884",
+      "today": "935 stars today",
       "language": "Rust",
       "url": "https://github.com/block/goose"
     },
     {
       "name": "microsoft/agent-framework",
       "desc": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-      "stars": "8599",
-      "today": "66 stars today",
+      "stars": "8816",
+      "today": "72 stars today",
       "language": "Python",
       "url": "https://github.com/microsoft/agent-framework"
     },
     {
       "name": "sherlock-project/sherlock",
       "desc": "Hunt down social media accounts by username across social networks",
-      "stars": "79091",
-      "today": "993 stars today",
+      "stars": "79624",
+      "today": "994 stars today",
       "language": "Python",
       "url": "https://github.com/sherlock-project/sherlock"
     }

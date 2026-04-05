@@ -4,7 +4,7 @@
     {
       "name": "Stitch 2.0 by Google",
       "desc": "Vibe design beautiful production-ready UI in seconds",
-      "votes": 822,
+      "votes": 826,
       "url": "https://www.producthunt.com/products/stitch-2-0-by-google-2/launches/stitch-2-0-by-google-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c6fac898-ea13-44f9-bdb6-c55dc0a8ed6c.jpeg?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Tobira.ai",
       "desc": "A network where AI agents find deals for their humans",
-      "votes": 730,
+      "votes": 734,
       "url": "https://www.producthunt.com/products/tobira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c25c764d-4b7e-4964-bc05-1d2773a416c8.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Littlebird",
       "desc": "The AI assistant that already knows your work",
-      "votes": 706,
+      "votes": 708,
       "url": "https://www.producthunt.com/products/littlebird?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/b452bcf1-1bad-41dd-9dcf-92ed7cf31548.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Agentplace AI Agents",
       "desc": "Create specialized AI agents for real tasks and workflows",
-      "votes": 704,
+      "votes": 706,
       "url": "https://www.producthunt.com/products/agentplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a2d767c5-498a-410b-8ef1-b7a9831f0b56.jpeg?auto=format",
       "topics": [
@@ -75,7 +75,7 @@
     {
       "name": "Claude Dispatch",
       "desc": "Text Claude from your phone using “Dispatch”",
-      "votes": 692,
+      "votes": 691,
       "url": "https://www.producthunt.com/products/claude/launches/claude-dispatch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1d846145-00ea-4113-ba6e-c1b42293d6df.png?auto=format",
       "topics": [
@@ -99,7 +99,7 @@
     {
       "name": "Claude Computer Use",
       "desc": "Enable Claude to use your computer to complete tasks ",
-      "votes": 675,
+      "votes": 679,
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d1459dd2-9d0e-439b-a021-6882f260f965.png?auto=format",
       "topics": [
@@ -111,7 +111,7 @@
     {
       "name": "Naoma AI Demo Agent",
       "desc": "The video AI demo agent for B2B SaaS for immediate demos",
-      "votes": 668,
+      "votes": 667,
       "url": "https://www.producthunt.com/products/naoma/launches/naoma-ai-demo-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
       "topics": [
@@ -145,26 +145,26 @@
       ]
     },
     {
+      "name": "Jupid",
+      "desc": "File your taxes with Claude Code",
+      "votes": 633,
+      "url": "https://www.producthunt.com/products/jupid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/92d18165-2a76-43da-aa4b-6cc32f7db73c.png?auto=format",
+      "topics": [
+        "Fintech",
+        "Accounting"
+      ]
+    },
+    {
       "name": "Claude Marketplace",
       "desc": "Helping companies easily get the AI tools they need",
-      "votes": 632,
+      "votes": 631,
       "url": "https://www.producthunt.com/products/claude-marketplace/launches/claude-marketplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4d3aaebf-b1e9-4077-9fd4-a4f4e376c187.png?auto=format",
       "topics": [
         "Productivity",
         "Developer Tools",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Jupid",
-      "desc": "File your taxes with Claude Code",
-      "votes": 630,
-      "url": "https://www.producthunt.com/products/jupid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/92d18165-2a76-43da-aa4b-6cc32f7db73c.png?auto=format",
-      "topics": [
-        "Fintech",
-        "Accounting"
       ]
     },
     {
@@ -182,7 +182,7 @@
     {
       "name": "ProductBridge",
       "desc": "Agent that collects feedback across multiple platforms",
-      "votes": 605,
+      "votes": 600,
       "url": "https://www.producthunt.com/products/productbridge/launches/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6f3cceef-8ebb-4587-ad7f-4439173b53ff.png?auto=format",
       "topics": [
@@ -206,7 +206,7 @@
     {
       "name": "Claude Code Review",
       "desc": "Multi-agent review catching bugs early in AI-generated code",
-      "votes": 573,
+      "votes": 569,
       "url": "https://www.producthunt.com/products/claude/launches/claude-code-review?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/3dfe9e3f-75df-4d91-a9b2-c9ed2449241f.png?auto=format",
       "topics": [
@@ -218,7 +218,7 @@
     {
       "name": "Timelaps",
       "desc": "Know if your marketing is working with real-time insights",
-      "votes": 569,
+      "votes": 567,
       "url": "https://www.producthunt.com/products/timelaps/launches/timelaps?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/95132434-10a5-4aea-9e86-c28817573f57.png?auto=format",
       "topics": [
@@ -230,7 +230,7 @@
     {
       "name": "Cardboard",
       "desc": "Cursor for video editing",
-      "votes": 549,
+      "votes": 548,
       "url": "https://www.producthunt.com/products/cardboard-3/launches/cardboard-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/607a82e0-7a58-4dda-b92c-71e0f0688c52.png?auto=format",
       "topics": [
