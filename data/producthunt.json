@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-07",
+  "date": "2026-04-08",
   "items": [
     {
       "name": "Stitch 2.0 by Google",
       "desc": "Vibe design beautiful production-ready UI in seconds",
-      "votes": 830,
+      "votes": 833,
       "url": "https://www.producthunt.com/products/stitch-2-0-by-google-2/launches/stitch-2-0-by-google-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c6fac898-ea13-44f9-bdb6-c55dc0a8ed6c.jpeg?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Visual Translate by Vozo",
       "desc": "Translate text in your videos without recreating visuals",
-      "votes": 761,
+      "votes": 762,
       "url": "https://www.producthunt.com/products/vozo/launches/visual-translate-by-vozo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/beac91f0-5b0c-4702-a32d-8be887488c08.gif?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Chronicle 2.0",
       "desc": "AI presentations without the AI slop",
-      "votes": 747,
+      "votes": 748,
       "url": "https://www.producthunt.com/products/chronicle-6/launches/chronicle-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/32f798e8-593b-4453-9806-6bbd9a04a244.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Tobira.ai",
       "desc": "A network where AI agents find deals for their humans",
-      "votes": 737,
+      "votes": 738,
       "url": "https://www.producthunt.com/products/tobira-ai/launches/tobira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c25c764d-4b7e-4964-bc05-1d2773a416c8.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Littlebird",
       "desc": "The AI assistant that already knows your work",
-      "votes": 707,
+      "votes": 709,
       "url": "https://www.producthunt.com/products/littlebird?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/b452bcf1-1bad-41dd-9dcf-92ed7cf31548.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Agentplace AI Agents",
       "desc": "Create specialized AI agents for real tasks and workflows",
-      "votes": 705,
+      "votes": 703,
       "url": "https://www.producthunt.com/products/agentplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a2d767c5-498a-410b-8ef1-b7a9831f0b56.jpeg?auto=format",
       "topics": [
@@ -75,7 +75,7 @@
     {
       "name": "Claude Dispatch",
       "desc": "Text Claude from your phone using “Dispatch”",
-      "votes": 688,
+      "votes": 689,
       "url": "https://www.producthunt.com/products/claude/launches/claude-dispatch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1d846145-00ea-4113-ba6e-c1b42293d6df.png?auto=format",
       "topics": [
@@ -135,7 +135,7 @@
     {
       "name": "Jupid",
       "desc": "File your taxes with Claude Code",
-      "votes": 644,
+      "votes": 646,
       "url": "https://www.producthunt.com/products/jupid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/92d18165-2a76-43da-aa4b-6cc32f7db73c.png?auto=format",
       "topics": [
@@ -182,7 +182,7 @@
     {
       "name": "ProductBridge",
       "desc": "Agent that collects feedback across multiple platforms",
-      "votes": 595,
+      "votes": 597,
       "url": "https://www.producthunt.com/products/productbridge/launches/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6f3cceef-8ebb-4587-ad7f-4439173b53ff.png?auto=format",
       "topics": [
@@ -230,7 +230,7 @@
     {
       "name": "Auto Mode by Claude Code",
       "desc": "Let Claude make permission decisions on your behalf",
-      "votes": 547,
+      "votes": 549,
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2e7743db-7998-4af0-9b6b-9a6ca5961a6b.jpeg?auto=format",
       "topics": [
