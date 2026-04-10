@@ -2,33 +2,9 @@
   "date": "2026-04-10",
   "items": [
     {
-      "name": "Stitch 2.0 by Google",
-      "desc": "Vibe design beautiful production-ready UI in seconds",
-      "votes": 835,
-      "url": "https://www.producthunt.com/products/stitch-2-0-by-google-2/launches/stitch-2-0-by-google-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/c6fac898-ea13-44f9-bdb6-c55dc0a8ed6c.jpeg?auto=format",
-      "topics": [
-        "Design Tools",
-        "Prototyping",
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Visual Translate by Vozo",
-      "desc": "Translate text in your videos without recreating visuals",
-      "votes": 767,
-      "url": "https://www.producthunt.com/products/vozo/launches/visual-translate-by-vozo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/beac91f0-5b0c-4702-a32d-8be887488c08.gif?auto=format",
-      "topics": [
-        "Productivity",
-        "SaaS",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Brila",
       "desc": "One-page websites from real Google Maps reviews",
-      "votes": 767,
+      "votes": 1155,
       "url": "https://www.producthunt.com/products/brila-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6e8a39c7-ec23-46e5-9962-0ad93d097fc0.png?auto=format",
       "topics": [
@@ -38,37 +14,26 @@
       ]
     },
     {
-      "name": "Chronicle 2.0",
-      "desc": "AI presentations without the AI slop",
-      "votes": 751,
-      "url": "https://www.producthunt.com/products/chronicle-6/launches/chronicle-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/32f798e8-593b-4453-9806-6bbd9a04a244.png?auto=format",
+      "name": "Stitch 2.0 by Google",
+      "desc": "Vibe design beautiful production-ready UI in seconds",
+      "votes": 833,
+      "url": "https://www.producthunt.com/products/stitch-2-0-by-google-2/launches/stitch-2-0-by-google-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/c6fac898-ea13-44f9-bdb6-c55dc0a8ed6c.jpeg?auto=format",
       "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Design"
+        "Design Tools",
+        "Prototyping",
+        "Artificial Intelligence"
       ]
     },
     {
       "name": "Tobira.ai",
       "desc": "A network where AI agents find deals for their humans",
-      "votes": 732,
+      "votes": 731,
       "url": "https://www.producthunt.com/products/tobira-ai/launches/tobira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c25c764d-4b7e-4964-bc05-1d2773a416c8.png?auto=format",
       "topics": [
         "Productivity",
         "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Agentplace AI Agents",
-      "desc": "Create specialized AI agents for real tasks and workflows",
-      "votes": 714,
-      "url": "https://www.producthunt.com/products/agentplace/launches/agentplace-ai-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/a2d767c5-498a-410b-8ef1-b7a9831f0b56.jpeg?auto=format",
-      "topics": [
-        "Productivity",
         "Artificial Intelligence"
       ]
     },
@@ -82,6 +47,17 @@
         "Meetings",
         "Artificial Intelligence",
         "Virtual Assistants"
+      ]
+    },
+    {
+      "name": "Agentplace AI Agents",
+      "desc": "Create specialized AI agents for real tasks and workflows",
+      "votes": 705,
+      "url": "https://www.producthunt.com/products/agentplace/launches/agentplace-ai-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/a2d767c5-498a-410b-8ef1-b7a9831f0b56.jpeg?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -99,7 +75,7 @@
     {
       "name": "Claude Computer Use",
       "desc": "Enable Claude to use your computer to complete tasks ",
-      "votes": 672,
+      "votes": 671,
       "url": "https://www.producthunt.com/products/claude/launches/claude-computer-use-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d1459dd2-9d0e-439b-a021-6882f260f965.png?auto=format",
       "topics": [
@@ -123,7 +99,7 @@
     {
       "name": "Jupid",
       "desc": "File your taxes with Claude Code",
-      "votes": 661,
+      "votes": 659,
       "url": "https://www.producthunt.com/products/jupid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/92d18165-2a76-43da-aa4b-6cc32f7db73c.png?auto=format",
       "topics": [
@@ -141,6 +117,30 @@
         "Productivity",
         "Artificial Intelligence",
         "E-Commerce"
+      ]
+    },
+    {
+      "name": "Velo",
+      "desc": "Share anything as video messages",
+      "votes": 652,
+      "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Video"
+      ]
+    },
+    {
+      "name": "ProdShort",
+      "desc": "Turn meetings into ready-to-post shorts and posts",
+      "votes": 648,
+      "url": "https://www.producthunt.com/products/prodshort?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/38e5b6bb-8906-4a84-aa93-14252e90b39c.gif?auto=format",
+      "topics": [
+        "Social Media",
+        "Meetings",
+        "Alpha"
       ]
     },
     {
@@ -165,18 +165,6 @@
         "Sales",
         "Artificial Intelligence",
         "CRM"
-      ]
-    },
-    {
-      "name": "Velo",
-      "desc": "Share anything as video messages",
-      "votes": 607,
-      "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Video"
       ]
     },
     {
@@ -206,7 +194,7 @@
     {
       "name": "Glam AI",
       "desc": "Pick a trend, add your photo, and create viral content",
-      "votes": 591,
+      "votes": 585,
       "url": "https://www.producthunt.com/products/glam-ai/launches/glam-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/44263da1-338e-4b0b-836a-0bd9ae34d267.gif?auto=format",
       "topics": [
@@ -216,27 +204,39 @@
       ]
     },
     {
-      "name": "Claude Code Review",
-      "desc": "Multi-agent review catching bugs early in AI-generated code",
-      "votes": 564,
-      "url": "https://www.producthunt.com/products/claude/launches/claude-code-review?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/3dfe9e3f-75df-4d91-a9b2-c9ed2449241f.png?auto=format",
-      "topics": [
-        "Developer Tools",
-        "Artificial Intelligence",
-        "Development"
-      ]
-    },
-    {
       "name": "NovaVoice",
       "desc": "Smart dictation, AI assistant, + app control via voice",
-      "votes": 554,
+      "votes": 558,
       "url": "https://www.producthunt.com/products/novavoice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/b80faac0-f678-4432-b65f-7b9321d45065.png?auto=format",
       "topics": [
         "Productivity",
         "Writing",
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Auto Mode by Claude Code",
+      "desc": "Let Claude make permission decisions on your behalf",
+      "votes": 550,
+      "url": "https://www.producthunt.com/products/claude/launches/auto-mode-by-claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/2e7743db-7998-4af0-9b6b-9a6ca5961a6b.jpeg?auto=format",
+      "topics": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Cardboard",
+      "desc": "Cursor for video editing",
+      "votes": 545,
+      "url": "https://www.producthunt.com/products/cardboard-3/launches/cardboard-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/607a82e0-7a58-4dda-b92c-71e0f0688c52.png?auto=format",
+      "topics": [
+        "Marketing",
+        "Artificial Intelligence",
+        "Video"
       ]
     }
   ]

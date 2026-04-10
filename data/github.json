@@ -4,55 +4,55 @@
     {
       "name": "NousResearch/hermes-agent",
       "desc": "The agent that grows with you",
-      "stars": "43355",
-      "today": "6,788 stars today",
+      "stars": "47978",
+      "today": "6,485 stars today",
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "forrestchang/andrej-karpathy-skills",
       "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": "10091",
-      "today": "1,371 stars today",
+      "stars": "11076",
+      "today": "1,364 stars today",
       "language": "",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
       "name": "HKUDS/DeepTutor",
       "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "stars": "14500",
-      "today": "1,300 stars today",
+      "stars": "15410",
+      "today": "1,310 stars today",
       "language": "Python",
       "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
       "name": "OpenBMB/VoxCPM",
       "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": "7483",
-      "today": "460 stars today",
+      "stars": "8091",
+      "today": "496 stars today",
       "language": "Python",
       "url": "https://github.com/OpenBMB/VoxCPM"
     },
     {
       "name": "opendataloader-project/opendataloader-pdf",
       "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "stars": "13460",
-      "today": "1,118 stars today",
+      "stars": "14281",
+      "today": "1,124 stars today",
       "language": "Java",
       "url": "https://github.com/opendataloader-project/opendataloader-pdf"
     },
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "143318",
-      "today": "2,318 stars today",
+      "stars": "144628",
+      "today": "2,299 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "TheCraigHewitt/seomachine",
       "desc": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-      "stars": "5048",
+      "stars": "5379",
       "today": "725 stars today",
       "language": "Python",
       "url": "https://github.com/TheCraigHewitt/seomachine"
@@ -60,24 +60,24 @@
     {
       "name": "coleam00/Archon",
       "desc": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "stars": "14241",
-      "today": "138 stars today",
+      "stars": "14658",
+      "today": "185 stars today",
       "language": "TypeScript",
       "url": "https://github.com/coleam00/Archon"
     },
     {
       "name": "shiyu-coder/Kronos",
       "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": "12004",
-      "today": "223 stars today",
+      "stars": "12416",
+      "today": "245 stars today",
       "language": "Python",
       "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
       "name": "YishenTu/claudian",
       "desc": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": "6667",
-      "today": "174 stars today",
+      "stars": "7069",
+      "today": "200 stars today",
       "language": "TypeScript",
       "url": "https://github.com/YishenTu/claudian"
     }
