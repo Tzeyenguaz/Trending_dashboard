@@ -1,101 +1,109 @@
 {
-  "date": "2026-04-11",
+  "date": "2026-04-12",
   "items": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "57467",
+      "today": "6,437 stars today",
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
     {
       "name": "microsoft/markitdown",
       "desc": "Python tool for converting files and office documents to Markdown.",
-      "stars": "100577",
-      "today": "2,352 stars today",
+      "stars": "101495",
+      "today": "3,069 stars today",
       "language": "Python",
       "url": "https://github.com/microsoft/markitdown"
     },
     {
       "name": "coleam00/Archon",
       "desc": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "stars": "16003",
-      "today": "756 stars today",
+      "stars": "16268",
+      "today": "1,339 stars today",
       "language": "TypeScript",
       "url": "https://github.com/coleam00/Archon"
     },
     {
-      "name": "NousResearch/hermes-agent",
-      "desc": "The agent that grows with you",
-      "stars": "54417",
-      "today": "7,671 stars today",
-      "language": "Python",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "name": "rowboatlabs/rowboat",
-      "desc": "Open-source AI coworker, with memory",
-      "stars": "11914",
-      "today": "507 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/rowboatlabs/rowboat"
-    },
-    {
-      "name": "multica-ai/multica",
-      "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "stars": "6767",
-      "today": "1,506 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/multica-ai/multica"
-    },
-    {
       "name": "forrestchang/andrej-karpathy-skills",
       "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": "12119",
-      "today": "1,450 stars today",
+      "stars": "12770",
+      "today": "1,070 stars today",
       "language": "",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
-      "name": "shiyu-coder/Kronos",
-      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": "12847",
-      "today": "601 stars today",
-      "language": "Python",
-      "url": "https://github.com/shiyu-coder/Kronos"
-    },
-    {
-      "name": "HKUDS/DeepTutor",
-      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "stars": "16225",
-      "today": "1,424 stars today",
-      "language": "Python",
-      "url": "https://github.com/HKUDS/DeepTutor"
-    },
-    {
-      "name": "opendataloader-project/opendataloader-pdf",
-      "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "stars": "15048",
-      "today": "1,306 stars today",
-      "language": "Java",
-      "url": "https://github.com/opendataloader-project/opendataloader-pdf"
-    },
-    {
-      "name": "obra/superpowers",
-      "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "146249",
-      "today": "2,150 stars today",
-      "language": "Shell",
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "jqlang/jq",
-      "desc": "Command-line JSON processor",
-      "stars": "34367",
-      "today": "75 stars today",
-      "language": "C",
-      "url": "https://github.com/jqlang/jq"
+      "name": "multica-ai/multica",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "stars": "7415",
+      "today": "1,950 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/multica-ai/multica"
     },
     {
       "name": "shanraisshan/claude-code-best-practice",
       "desc": "practice made claude perfect",
-      "stars": "36261",
-      "today": "1,251 stars today",
+      "stars": "36756",
+      "today": "1,476 stars today",
       "language": "HTML",
       "url": "https://github.com/shanraisshan/claude-code-best-practice"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "desc": "所有小初高、大学PDF教材。",
+      "stars": "67708",
+      "today": "472 stars today",
+      "language": "Roff",
+      "url": "https://github.com/TapXWorld/ChinaTextbook"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": "9570",
+      "today": "1,136 stars today",
+      "language": "Python",
+      "url": "https://github.com/OpenBMB/VoxCPM"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": "13632",
+      "today": "607 stars today",
+      "language": "Python",
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "stars": "15401",
+      "today": "777 stars today",
+      "language": "Java",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "stars": "16543",
+      "today": "836 stars today",
+      "language": "Python",
+      "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "stars": "146827",
+      "today": "1,589 stars today",
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "alexpate/awesome-design-systems",
+      "desc": "💅🏻 ⚒ A collection of awesome design systems",
+      "stars": "21802",
+      "today": "1,978 stars today",
+      "language": "",
+      "url": "https://github.com/alexpate/awesome-design-systems"
     }
   ]
 }

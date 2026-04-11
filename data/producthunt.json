@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-11",
+  "date": "2026-04-12",
   "items": [
     {
       "name": "Brila",
       "desc": "One-page websites from real Google Maps reviews",
-      "votes": 1200,
+      "votes": 1203,
       "url": "https://www.producthunt.com/products/brila-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6e8a39c7-ec23-46e5-9962-0ad93d097fc0.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Stitch 2.0 by Google",
       "desc": "Vibe design beautiful production-ready UI in seconds",
-      "votes": 838,
+      "votes": 837,
       "url": "https://www.producthunt.com/products/stitch-2-0-by-google-2/launches/stitch-2-0-by-google-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c6fac898-ea13-44f9-bdb6-c55dc0a8ed6c.jpeg?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Tobira.ai",
       "desc": "A network where AI agents find deals for their humans",
-      "votes": 733,
+      "votes": 730,
       "url": "https://www.producthunt.com/products/tobira-ai/launches/tobira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c25c764d-4b7e-4964-bc05-1d2773a416c8.png?auto=format",
       "topics": [
@@ -63,7 +63,7 @@
     {
       "name": "Claude Dispatch",
       "desc": "Text Claude from your phone using “Dispatch”",
-      "votes": 682,
+      "votes": 681,
       "url": "https://www.producthunt.com/products/claude/launches/claude-dispatch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1d846145-00ea-4113-ba6e-c1b42293d6df.png?auto=format",
       "topics": [
@@ -87,7 +87,7 @@
     {
       "name": "ProdShort",
       "desc": "Turn meetings into ready-to-post shorts and posts",
-      "votes": 666,
+      "votes": 670,
       "url": "https://www.producthunt.com/products/prodshort?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/38e5b6bb-8906-4a84-aa93-14252e90b39c.gif?auto=format",
       "topics": [
@@ -97,9 +97,20 @@
       ]
     },
     {
+      "name": "Jupid",
+      "desc": "File your taxes with Claude Code",
+      "votes": 665,
+      "url": "https://www.producthunt.com/products/jupid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/92d18165-2a76-43da-aa4b-6cc32f7db73c.png?auto=format",
+      "topics": [
+        "Fintech",
+        "Accounting"
+      ]
+    },
+    {
       "name": "Naoma AI Demo Agent",
       "desc": "The video AI demo agent for B2B SaaS for immediate demos",
-      "votes": 664,
+      "votes": 663,
       "url": "https://www.producthunt.com/products/naoma/launches/naoma-ai-demo-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
       "topics": [
@@ -109,20 +120,9 @@
       ]
     },
     {
-      "name": "Jupid",
-      "desc": "File your taxes with Claude Code",
-      "votes": 664,
-      "url": "https://www.producthunt.com/products/jupid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/92d18165-2a76-43da-aa4b-6cc32f7db73c.png?auto=format",
-      "topics": [
-        "Fintech",
-        "Accounting"
-      ]
-    },
-    {
       "name": "Velo",
       "desc": "Share anything as video messages",
-      "votes": 662,
+      "votes": 661,
       "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
       "topics": [
@@ -158,7 +158,7 @@
     {
       "name": "Needle 2.0",
       "desc": "Vibe-automate workflows and earn passive income",
-      "votes": 606,
+      "votes": 605,
       "url": "https://www.producthunt.com/products/needle-3/launches/needle-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/998eb53e-158a-4045-84a5-68c0f635e683.png?auto=format",
       "topics": [
@@ -194,7 +194,7 @@
     {
       "name": "Offsite",
       "desc": "Build teams of humans and agents, watch them work.",
-      "votes": 562,
+      "votes": 564,
       "url": "https://www.producthunt.com/products/offsite-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/36ecffd5-da17-41db-b124-84232c2c4cf3.png?auto=format",
       "topics": [
@@ -218,7 +218,7 @@
     {
       "name": "Auto Mode by Claude Code",
       "desc": "Let Claude make permission decisions on your behalf",
-      "votes": 550,
+      "votes": 549,
       "url": "https://www.producthunt.com/products/claude/launches/auto-mode-by-claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2e7743db-7998-4af0-9b6b-9a6ca5961a6b.jpeg?auto=format",
       "topics": [
